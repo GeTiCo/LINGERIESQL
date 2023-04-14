@@ -1,0 +1,1 @@
+﻿INSERT INTO category (categoryName) VALUES ('abc');

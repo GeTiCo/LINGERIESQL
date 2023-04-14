@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище SwimSuitShopModelContainer" CdmEntityContainer="SwimSuitShopEntities1">
+    <EntitySetMapping Name="category">
+      <EntityTypeMapping TypeName="SwimSuitShopModel.category">
+        <MappingFragment StoreEntitySet="category">
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="categoryName" ColumnName="categoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="product">
+      <EntityTypeMapping TypeName="SwimSuitShopModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="productName" ColumnName="productName" />
+          <ScalarProperty Name="productCost" ColumnName="productCost" />
+          <ScalarProperty Name="productSize" ColumnName="productSize" />
+          <ScalarProperty Name="productMaterial" ColumnName="productMaterial" />
+          <ScalarProperty Name="productStructure" ColumnName="productStructure" />
+          <ScalarProperty Name="productInformation" ColumnName="productInformation" />
+          <ScalarProperty Name="productPhotoUrl" ColumnName="productPhotoUrl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
