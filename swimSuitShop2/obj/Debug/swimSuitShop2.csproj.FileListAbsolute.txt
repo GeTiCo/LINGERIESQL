@@ -74,3 +74,4 @@ C:\Users\rodio\source\repos\LINGERIE\swimSuitShop2\bin\Debug\EntityFramework.Sql
 C:\Users\rodio\source\repos\LINGERIE\swimSuitShop2\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\rodio\source\repos\LINGERIE\swimSuitShop2\obj\Debug\swimSuitShop2_Content.g.cs
 C:\Users\rodio\source\repos\LINGERIE\swimSuitShop2\obj\Debug\swimSuitShop2.csproj.CopyComplete
+C:\Users\rodio\source\repos\LINGERIE\swimSuitShop2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

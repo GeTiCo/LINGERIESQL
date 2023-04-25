@@ -1,0 +1,7 @@
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\LingerieTests.csproj.AssemblyReference.cache
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\Interop.Accessibility.dll
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\LingerieTests.csproj.ResolveComReference.cache
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\LingerieTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\LingerieTests.AssemblyInfoInputs.cache
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\LingerieTests.AssemblyInfo.cs
+C:\Users\rodio\source\repos\LINGERIE\LingerieTests\obj\Debug\net6.0\LingerieTests.csproj.CoreCompileInputs.cache
